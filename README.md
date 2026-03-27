@@ -37,5 +37,4 @@
 
 - Portfolio 1: **Alpha — AI 멀티 에이전트 투자 시스템** (핵심 프로젝트, GitHub pin 권장)
 - Portfolio 2: **TPC-H/ClickBench 벤치마크 파이프라인** (README 정리 권장)
-- LinkedIn: (있다면 추가 권장)
-- Blog: 기술 블로그 또는 README 기반 기술 정리
+- Blog: 현재는 GitHub README 중심으로 기술 내용을 정리합니다.
