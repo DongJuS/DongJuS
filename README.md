@@ -36,4 +36,4 @@
 [![Email](https://img.shields.io/badge/Email-dongju.seo%40ingkle.com-EA4335?logo=gmail&logoColor=white)](mailto:dongju.seo@ingkle.com)
 
 - Portfolio 1: [**Alpha — AI 멀티 에이전트 투자 시스템 (agents-investing)**](https://github.com/DongJuS/agents-investing) (LLM 기반 에이전트 오케스트레이션/투자 분석)
-- Portfolio 2: **TPC-H/ClickBench 벤치마크 파이프라인** (PostgreSQL 기반 쿼리 성능 측정 및 분석, 비공개 실무 프로젝트)
+- Portfolio 2: **TPC-H/ClickBench 벤치마크 파이프라인 (Private Project)** (PostgreSQL 기반 쿼리 성능 측정 및 분석)
