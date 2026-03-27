@@ -35,5 +35,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DongJuS-181717?logo=github&logoColor=white)](https://github.com/DongJuS)
 [![Email](https://img.shields.io/badge/Email-dongju.seo%40ingkle.com-EA4335?logo=gmail&logoColor=white)](mailto:dongju.seo@ingkle.com)
 
-- Portfolio 1: **Alpha — AI 멀티 에이전트 투자 시스템** (핵심 프로젝트, GitHub pin 권장)
-- Portfolio 2: **TPC-H/ClickBench 벤치마크 파이프라인** (README 정리 권장)
+- Portfolio 1: **Alpha — AI 멀티 에이전트 투자 시스템**
+- Portfolio 2: **TPC-H/ClickBench 벤치마크 파이프라인**
