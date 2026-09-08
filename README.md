@@ -27,7 +27,6 @@
 
 ### Benchmark
 ![TPC-H](https://img.shields.io/badge/TPC--H-Benchmark-4B5563)
-![TPC-DS](https://img.shields.io/badge/TPC--DS-Benchmark-4B5563)
 ![ClickBench](https://img.shields.io/badge/ClickBench-Benchmark-4B5563)
 
 ---
