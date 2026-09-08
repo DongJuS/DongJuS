@@ -33,7 +33,7 @@
 
 ### 📌 Projects
 
-**[Alpha — 실시간 금융 데이터 파이프라인](https://github.com/DongJuS/agents-investing)**
+**[Alpha — 실시간 금융 데이터 파이프라인](https://github.com/DongJuS/alpha-financial-pipeline)**
 배치/실시간 수집 → S3 Parquet → 9개 스케줄 잡 → K8s 배포 | RL +47.84% 수익률 | 557 테스트 100%
 
 **[K-way External Merge Sort](https://github.com/DongJuS/k-way-external-merge-sort)**
